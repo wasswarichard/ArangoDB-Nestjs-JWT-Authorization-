@@ -24,7 +24,7 @@ It is assumed that you have installed Mojaloop Security BC and associated servic
 Clone the repo
 
 ```bash
-git clone git@github.com:lextego/config-svc.git
+https://github.com/wasswarichard/ArangoDB-Nestjs-JWT-Authorization-.git
 ```
 
 cd into the repo
