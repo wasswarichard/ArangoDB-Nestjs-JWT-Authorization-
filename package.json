@@ -1,8 +1,7 @@
 {
-  "name": "config-svc-be",
+  "name": "Nestjs",
   "version": "0.0.1",
   "description": "",
-  "author": "richard.wasswa@lextego.com",
   "private": true,
   "lextego": {
     "publish_to_dockerhub": true
